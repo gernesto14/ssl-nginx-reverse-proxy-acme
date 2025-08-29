@@ -1,0 +1,10 @@
+.
+├── docker-compose.old.yaml
+├── docker-compose.yaml
+├── html
+│   └── index.html
+├── nginx
+│   └── nginx.conf
+└── structure.txt
+
+3 directories, 5 files
