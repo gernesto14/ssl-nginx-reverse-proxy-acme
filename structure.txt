@@ -1,10 +1,13 @@
 .
-├── docker-compose.old.yaml
+├── LICENSE
+├── README.md
+├── certs
+│   └── dhparam.pem
 ├── docker-compose.yaml
 ├── html
 │   └── index.html
-├── nginx
-│   └── nginx.conf
+├── proxy-service
+│   └── default.conf
 └── structure.txt
 
-3 directories, 5 files
+4 directories, 7 files

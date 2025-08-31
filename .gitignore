@@ -9,3 +9,10 @@ __pycache__/
 
 # MacOS
 .DS_Store
+
+# Certs
+*./certs
+
+
+# Dont ignore these files
+!.env.example
