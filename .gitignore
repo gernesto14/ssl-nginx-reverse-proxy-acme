@@ -11,7 +11,7 @@ __pycache__/
 .DS_Store
 
 # Certs
-*./certs
+./certs
 
 
 # Dont ignore these files
